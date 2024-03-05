@@ -1,0 +1,11 @@
+{
+  "name": "payfood_back_node",
+  "version": "1.0.0",
+  "description": "back payfood to node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Armel",
+  "license": "ISC"
+}
